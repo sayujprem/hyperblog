@@ -49,9 +49,11 @@ body
 {
     background: white;
     padding: 1em;
+}
 
 #footer
 {
+    font-style: white bold;
     background: #1aa80799;
     color: white;
     text-align: center;
